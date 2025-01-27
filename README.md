@@ -1,7 +1,7 @@
 # IndeedScrapeAnalyzer
 # JobScraperBot
 
-JobScraperBot is a Python-based automation tool for scraping job postings from **Indeed** and analyzing the extracted data. This repository contains scripts to gather job information, process it, and generate visualizations to gain insights into job markets.
+IndeedScrapeAnalyzer is a Python-based automation tool for scraping job postings from **Indeed** and analyzing the extracted data. This repository contains scripts to gather job information, process it, and generate visualizations to gain insights into job markets.
 
 ## Features
 
